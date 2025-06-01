@@ -1,5 +1,5 @@
 # Hi, I’m Ykaiqx.
-[![Mail](https://img.shields.io/badge/Mail-Ykaiqxx@gmail.com-blue.svg)](mailto:Ykaiqxx@gmail.com)
+[![Mail](https://img.shields.io/badge/Mail-ykaiqxx@gmail.com-blue.svg)](mailto:ykaiqxx@gmail.com)
 ## Skill
 ![Java](https://img.shields.io/badge/Java-000000?logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-000000?logo=python)
