@@ -11,7 +11,7 @@
 ## Website
 |Name|Description|
 |---|---|
-|[灵钥通枢](https://www.letfate.com/)|全网首家免费的AI思维链占卜网站,融合了六爻,梅花易数等传统占卜术数,运用人工智能技术,为用户提供精准,便捷的占卜服务|
+|[灵钥通枢](https://ai.letfate.com/)|全网首家免费的AI思维链占卜网站,融合了六爻,梅花易数等传统占卜术数,运用人工智能技术,为用户提供精准,便捷的占卜服务|
 ## Project
 |Name|Description|
 |---|---|
