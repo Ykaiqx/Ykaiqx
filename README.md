@@ -16,6 +16,6 @@
 |Name|Description|
 |---|---|
 |[Easy-Reverse-Proxy](https://github.com/Ykaiqx/Easy-Reverse-Proxy)|一款基于Node.js Express框架,开发的反向代理程序|
-|[AI-Diviner](https://github.com/AI-Diviner/AI-Diviner-Backend)|一个AI聊天助手,可以辅助解卦,塔罗占卜,八字命理|
+|[AI-Diviner](https://github.com/Let-Fate/AI-Diviner-Backend)|一个AI聊天助手,可以辅助解卦,塔罗占卜,八字命理|
 ## Stats
 ![Stats](https://github-readme-stats.vercel.app/api?show_icons=true&username=Ykaiqx)
