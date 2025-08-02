@@ -5,9 +5,16 @@
 ![Python](https://img.shields.io/badge/Python-000000?logo=python)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-000000?logo=html5)
+![HTML](https://img.shields.io/badge/HTML-000000?logo=html5)  
+![SpringBoot](https://img.shields.io/badge/SpringBoot-000000?logo=springboot)
+![MyBatis-Plus](https://img.shields.io/badge/MyBatis--Plus-000000?logo=devdotto)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?logo=fastapi)
+![Express](https://img.shields.io/badge/Express-000000?logo=express)  
 ![MySQL](https://img.shields.io/badge/MySQL-000000?logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-000000?logo=redis)
+![Redis](https://img.shields.io/badge/Redis-000000?logo=redis)  
+![Linux](https://img.shields.io/badge/Linux-000000?logo=linux)
+![Git](https://img.shields.io/badge/Git-000000?logo=git)
+![Docker](https://img.shields.io/badge/Docker-000000?logo=docker)
 ## Website
 |Name|Description|
 |---|---|
